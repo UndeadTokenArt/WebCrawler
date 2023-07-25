@@ -1,0 +1,27 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A web Crawler App made with node following Boot.dev course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UndeadTokenArt/WebCrawler.git"
+  },
+  "keywords": [
+    "Web",
+    "crawler"
+  ],
+  "author": "Stephen Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UndeadTokenArt/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/UndeadTokenArt/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
